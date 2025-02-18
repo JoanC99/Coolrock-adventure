@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: 7d3802d8ea1f1d9489212582e6e38fce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2002371618052100172
+    second: CoolrockATACK_0
+  - first:
+      213: 1075429024549427757
+    second: CoolrockATACK_1
+  - first:
+      213: -3516187662096020365
+    second: CoolrockATACK_2
+  - first:
+      213: 6959247522977425222
+    second: CoolrockATACK_3
+  - first:
+      213: -3427249331970520753
+    second: CoolrockATACK_4
+  - first:
+      213: -3720085248588216071
+    second: CoolrockATACK_5
+  - first:
+      213: 821376461439295287
+    second: CoolrockATACK_6
+  - first:
+      213: -2710521349707774959
+    second: CoolrockATACK_7
+  - first:
+      213: -734770573359422479
+    second: CoolrockATACK_8
+  - first:
+      213: -1983943626157047071
+    second: CoolrockATACK_9
+  - first:
+      213: 5181771272869556796
+    second: CoolrockATACK_10
+  - first:
+      213: -7976714417577650474
+    second: CoolrockATACK_11
+  - first:
+      213: 495093915877905765
+    second: CoolrockATACK_12
+  - first:
+      213: -3205981240313311192
+    second: CoolrockATACK_13
+  - first:
+      213: -2596351822951495027
+    second: CoolrockATACK_14
+  - first:
+      213: 354467006549434110
+    second: CoolrockATACK_15
+  - first:
+      213: 9106804876755440620
+    second: CoolrockATACK_16
+  - first:
+      213: -913314987957553632
+    second: CoolrockATACK_17
+  - first:
+      213: 4257209958112937121
+    second: CoolrockATACK_18
+  - first:
+      213: -2915492432652852871
+    second: CoolrockATACK_19
+  - first:
+      213: -4759656998643376686
+    second: CoolrockATACK_20
+  - first:
+      213: -5226129574050754720
+    second: CoolrockATACK_21
+  - first:
+      213: 5499502809026816285
+    second: CoolrockATACK_22
+  - first:
+      213: -2911098021281506696
+    second: CoolrockATACK_23
+  - first:
+      213: -161802060991868834
+    second: CoolrockATACK_24
+  - first:
+      213: 4551043632159922728
+    second: CoolrockATACK_25
+  - first:
+      213: 3469788827484991265
+    second: CoolrockATACK_26
+  - first:
+      213: 1315393468951592223
+    second: CoolrockATACK_27
+  - first:
+      213: 5843599482998409742
+    second: CoolrockATACK_28
+  - first:
+      213: 4462893139188006658
+    second: CoolrockATACK_29
+  - first:
+      213: -5394766937255928608
+    second: CoolrockATACK_30
+  - first:
+      213: -3286275395449484143
+    second: CoolrockATACK_31
+  - first:
+      213: -8725888112991996609
+    second: CoolrockATACK_32
+  - first:
+      213: -1142292298014243060
+    second: CoolrockATACK_33
+  - first:
+      213: -2859987493418748166
+    second: CoolrockATACK_34
+  - first:
+      213: -2416490258264506896
+    second: CoolrockATACK_35
+  - first:
+      213: 2779020303677182280
+    second: CoolrockATACK_36
+  - first:
+      213: 1319087588320325542
+    second: CoolrockATACK_37
+  - first:
+      213: 5496015029849833857
+    second: CoolrockATACK_38
+  - first:
+      213: -7551347450799405977
+    second: CoolrockATACK_39
+  - first:
+      213: 2654758486151917723
+    second: CoolrockATACK_40
+  - first:
+      213: -3521849309177205429
+    second: CoolrockATACK_41
+  - first:
+      213: 6118013060437301524
+    second: CoolrockATACK_42
+  - first:
+      213: 6420691605315338125
+    second: CoolrockATACK_43
+  - first:
+      213: 3373797114539789431
+    second: CoolrockATACK_44
+  - first:
+      213: 68621904706588328
+    second: CoolrockATACK_45
+  - first:
+      213: 240165403491431618
+    second: CoolrockATACK_46
+  - first:
+      213: 7003905566051231378
+    second: CoolrockATACK_47
+  - first:
+      213: 7307354963752672759
+    second: CoolrockATACK_48
+  - first:
+      213: -7625731420915908736
+    second: CoolrockATACK_49
+  - first:
+      213: -1137135565115014108
+    second: CoolrockATACK_50
+  - first:
+      213: 591161104576791697
+    second: CoolrockATACK_51
+  - first:
+      213: 1848274351507082070
+    second: CoolrockATACK_52
+  - first:
+      213: -3797778858617368517
+    second: CoolrockATACK_53
+  - first:
+      213: 6262433086755400753
+    second: CoolrockATACK_54
+  - first:
+      213: -7918711785237006600
+    second: CoolrockATACK_55
+  - first:
+      213: -4773607081032401687
+    second: CoolrockATACK_56
+  - first:
+      213: 8691354352035377522
+    second: CoolrockATACK_57
+  - first:
+      213: -2605698469856287746
+    second: CoolrockATACK_58
+  - first:
+      213: 4832585908255547336
+    second: CoolrockATACK_59
+  - first:
+      213: 5397937465763826612
+    second: CoolrockATACK_60
+  - first:
+      213: -5671424958877649301
+    second: CoolrockATACK_61
+  - first:
+      213: -2205182200463196284
+    second: CoolrockATACK_62
+  - first:
+      213: -4026577348447080087
+    second: CoolrockATACK_63
+  - first:
+      213: 4829071736186785680
+    second: CoolrockATACK_64
+  - first:
+      213: 8635618139733330247
+    second: CoolrockATACK_65
+  - first:
+      213: 4168263616868779927
+    second: CoolrockATACK_66
+  - first:
+      213: -8762706468879693524
+    second: CoolrockATACK_67
+  - first:
+      213: 9114677793961976238
+    second: CoolrockATACK_68
+  - first:
+      213: 4301600485480153164
+    second: CoolrockATACK_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Linux64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CoolrockATACK_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c152ee866d5ab49b626f78eee18ea5
+      internalID: 1554094058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockATACK_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714259400d382fb4dba8d0f747929d46
+      internalID: 1546920558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockATACK_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c1dd6a49fae6a45a1c99cb5029d666
+      internalID: 167418901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockATACK_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ed4e0cadc87024f97bb13e2acb8f14
+      internalID: 1432670160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockATACK_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bc56f27b9826b4c974b949de8c93cf
+      internalID: 1660094855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockATACK_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f598b774588fece4397d6bab7e67d048
+      internalID: -964344434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockATACK_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99e733387264ab40aee109d04cd8738
+      internalID: -2139881836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockATACK_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c15886ce3cd65488c95e8e35993427
+      internalID: 1083855873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockATACK_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db756b28e94c7940bf803453b51f1a0
+      internalID: 374519138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockATACK_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1696984f317daf4885f2979421a4c5d
+      internalID: 1068616682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockATACK_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76372c8bbc7fea479475d4c8c291c3b
+      internalID: 612069298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockATACK_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7eacefa645b5845a33b9ec2fea320d
+      internalID: 1873017110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockATACK_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69554a3cb6ed6e46acd5e60d6d746b8
+      internalID: 501093337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockATACK_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9005795732417041a1a509e0df4ef8f
+      internalID: 1195109665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6ce6628f1e3d14f48ba6923c6565e565
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CoolrockATACK_0: 1554094058
+      CoolrockATACK_1: 1546920558
+      CoolrockATACK_10: 612069298
+      CoolrockATACK_11: 1873017110
+      CoolrockATACK_12: 501093337
+      CoolrockATACK_13: 1195109665
+      CoolrockATACK_2: 167418901
+      CoolrockATACK_3: 1432670160
+      CoolrockATACK_4: 1660094855
+      CoolrockATACK_5: -964344434
+      CoolrockATACK_6: -2139881836
+      CoolrockATACK_7: 1083855873
+      CoolrockATACK_8: 374519138
+      CoolrockATACK_9: 1068616682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

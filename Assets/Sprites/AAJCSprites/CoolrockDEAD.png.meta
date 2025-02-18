@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: 5803c504eb4168b47bfd5a07e3e174f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6223076023447519710
+    second: CoolrockDEAD_0
+  - first:
+      213: -1404826275257036524
+    second: CoolrockDEAD_1
+  - first:
+      213: 559369943518966486
+    second: CoolrockDEAD_2
+  - first:
+      213: -4240900396806249440
+    second: CoolrockDEAD_3
+  - first:
+      213: -4602113809083967101
+    second: CoolrockDEAD_4
+  - first:
+      213: 8438549259322936855
+    second: CoolrockDEAD_5
+  - first:
+      213: 4563495915408190598
+    second: CoolrockDEAD_6
+  - first:
+      213: 3674523730250554037
+    second: CoolrockDEAD_7
+  - first:
+      213: 5733367253467498676
+    second: CoolrockDEAD_8
+  - first:
+      213: -5818702587940974269
+    second: CoolrockDEAD_9
+  - first:
+      213: 2810609260768544111
+    second: CoolrockDEAD_10
+  - first:
+      213: 6305603278524314501
+    second: CoolrockDEAD_11
+  - first:
+      213: 8253446042925827885
+    second: CoolrockDEAD_12
+  - first:
+      213: 4572097978126921621
+    second: CoolrockDEAD_13
+  - first:
+      213: -955321413212158667
+    second: CoolrockDEAD_14
+  - first:
+      213: 1727915061257038439
+    second: CoolrockDEAD_15
+  - first:
+      213: -446386278939148736
+    second: CoolrockDEAD_16
+  - first:
+      213: 1631329495886105441
+    second: CoolrockDEAD_17
+  - first:
+      213: 583428952618769596
+    second: CoolrockDEAD_18
+  - first:
+      213: -4550278480109187679
+    second: CoolrockDEAD_19
+  - first:
+      213: 4605871964782164589
+    second: CoolrockDEAD_20
+  - first:
+      213: 2131279324457317443
+    second: CoolrockDEAD_21
+  - first:
+      213: -3118097940188204589
+    second: CoolrockDEAD_22
+  - first:
+      213: -8702268006812566490
+    second: CoolrockDEAD_23
+  - first:
+      213: -679664556316701814
+    second: CoolrockDEAD_24
+  - first:
+      213: -3536649149281608497
+    second: CoolrockDEAD_25
+  - first:
+      213: 7379952514687590316
+    second: CoolrockDEAD_26
+  - first:
+      213: 2989574597153138491
+    second: CoolrockDEAD_27
+  - first:
+      213: 5277271863451907897
+    second: CoolrockDEAD_28
+  - first:
+      213: 3738778492438938755
+    second: CoolrockDEAD_29
+  - first:
+      213: -6747050440390210440
+    second: CoolrockDEAD_30
+  - first:
+      213: 7805712190065508309
+    second: CoolrockDEAD_31
+  - first:
+      213: -8229680584257391772
+    second: CoolrockDEAD_32
+  - first:
+      213: -3714299266125216749
+    second: CoolrockDEAD_33
+  - first:
+      213: -4324964090021626832
+    second: CoolrockDEAD_34
+  - first:
+      213: -4257582335097011639
+    second: CoolrockDEAD_35
+  - first:
+      213: 3406247216762182577
+    second: CoolrockDEAD_36
+  - first:
+      213: -7152242963430916638
+    second: CoolrockDEAD_37
+  - first:
+      213: -5966368061068167620
+    second: CoolrockDEAD_38
+  - first:
+      213: -6470056044944537097
+    second: CoolrockDEAD_39
+  - first:
+      213: 2323311489827504988
+    second: CoolrockDEAD_40
+  - first:
+      213: -8806384691637776524
+    second: CoolrockDEAD_41
+  - first:
+      213: -3092202288025608235
+    second: CoolrockDEAD_42
+  - first:
+      213: -1553668973153612539
+    second: CoolrockDEAD_43
+  - first:
+      213: 647336160494432065
+    second: CoolrockDEAD_44
+  - first:
+      213: 6195106347793824225
+    second: CoolrockDEAD_45
+  - first:
+      213: 3761942582857578346
+    second: CoolrockDEAD_46
+  - first:
+      213: -4989873888836297765
+    second: CoolrockDEAD_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Linux64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CoolrockDEAD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ef824f35133a9a0800000000000000
+      internalID: -6223076023447519710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockDEAD_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4115b2c12fd018ce0800000000000000
+      internalID: -1404826275257036524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockDEAD_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d27a7dfff743c700800000000000000
+      internalID: 559369943518966486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockDEAD_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024ec80fe8b4525c0800000000000000
+      internalID: -4240900396806249440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockDEAD_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38951a9afd10220c0800000000000000
+      internalID: -4602113809083967101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockDEAD_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e449d87dfbb1570800000000000000
+      internalID: 8438549259322936855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockDEAD_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ce9db4b5bc45f30800000000000000
+      internalID: 4563495915408190598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockDEAD_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bad35c3dd78ef230800000000000000
+      internalID: 3674523730250554037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockDEAD_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b889cde323019f40800000000000000
+      internalID: 5733367253467498676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockDEAD_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341d12833d0df3fa0800000000000000
+      internalID: -5818702587940974269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolrockDEAD_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65488e3b3a410720800000000000000
+      internalID: 2810609260768544111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 89f2ee75b02c5a246ac3d8d978e1c5b3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CoolrockDEAD_0: -6223076023447519710
+      CoolrockDEAD_1: -1404826275257036524
+      CoolrockDEAD_10: 2810609260768544111
+      CoolrockDEAD_2: 559369943518966486
+      CoolrockDEAD_3: -4240900396806249440
+      CoolrockDEAD_4: -4602113809083967101
+      CoolrockDEAD_5: 8438549259322936855
+      CoolrockDEAD_6: 4563495915408190598
+      CoolrockDEAD_7: 3674523730250554037
+      CoolrockDEAD_8: 5733367253467498676
+      CoolrockDEAD_9: -5818702587940974269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

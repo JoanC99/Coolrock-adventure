@@ -1,0 +1,2169 @@
+fileFormatVersion: 2
+guid: 6585dd84d330d234a9442fe76b5b91a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2377591058467226955
+    second: CATARTs_0
+  - first:
+      213: -5649455235603474786
+    second: CATARTs_1
+  - first:
+      213: 2741369637253421048
+    second: CATARTs_2
+  - first:
+      213: 3317990159375453168
+    second: CATARTs_3
+  - first:
+      213: -8036759374507318664
+    second: CATARTs_4
+  - first:
+      213: 4565916596388225586
+    second: CATARTs_5
+  - first:
+      213: -4378053104899222239
+    second: CATARTs_6
+  - first:
+      213: 5060948373654211997
+    second: CATARTs_7
+  - first:
+      213: 5344152527073582104
+    second: CATARTs_8
+  - first:
+      213: -7562548212295210258
+    second: CATARTs_9
+  - first:
+      213: -9206948801309079228
+    second: CATARTs_10
+  - first:
+      213: 6742932669979096752
+    second: CATARTs_11
+  - first:
+      213: 711749361382134815
+    second: CATARTs_12
+  - first:
+      213: -545647824245404037
+    second: CATARTs_13
+  - first:
+      213: -6624081948148251392
+    second: CATARTs_14
+  - first:
+      213: -7536855558603976474
+    second: CATARTs_15
+  - first:
+      213: 6043707740737387150
+    second: CATARTs_16
+  - first:
+      213: 5376448815629965058
+    second: CATARTs_17
+  - first:
+      213: 4951455659559721248
+    second: CATARTs_18
+  - first:
+      213: -3171394485543225684
+    second: CATARTs_19
+  - first:
+      213: 2162703897571683464
+    second: CATARTs_20
+  - first:
+      213: -5314597544243571293
+    second: CATARTs_21
+  - first:
+      213: -5264436598824483059
+    second: CATARTs_22
+  - first:
+      213: -7613576401451462675
+    second: CATARTs_23
+  - first:
+      213: 5369562141004803759
+    second: CATARTs_24
+  - first:
+      213: 8487949810975989197
+    second: CATARTs_25
+  - first:
+      213: 4601153873761267903
+    second: CATARTs_26
+  - first:
+      213: 6783117174742926343
+    second: CATARTs_27
+  - first:
+      213: -9112350463786788510
+    second: CATARTs_28
+  - first:
+      213: 7343348471907969271
+    second: CATARTs_29
+  - first:
+      213: -746751919406619411
+    second: CATARTs_30
+  - first:
+      213: -823154142688393686
+    second: CATARTs_31
+  - first:
+      213: -4336331614875033861
+    second: CATARTs_32
+  - first:
+      213: -2123963195138886771
+    second: CATARTs_33
+  - first:
+      213: -2385456645263556784
+    second: CATARTs_34
+  - first:
+      213: 312162749843655717
+    second: CATARTs_35
+  - first:
+      213: 6883739116434129785
+    second: CATARTs_36
+  - first:
+      213: -3021010314118365314
+    second: CATARTs_37
+  - first:
+      213: -7285002994524149716
+    second: CATARTs_38
+  - first:
+      213: 6041134195416015950
+    second: CATARTs_39
+  - first:
+      213: -6628716685799313787
+    second: CATARTs_40
+  - first:
+      213: 7938225096485668275
+    second: CATARTs_41
+  - first:
+      213: 2619660271662804857
+    second: CATARTs_42
+  - first:
+      213: 4090377956573668852
+    second: CATARTs_43
+  - first:
+      213: 3953273241054689484
+    second: CATARTs_44
+  - first:
+      213: 8080489302834424701
+    second: CATARTs_45
+  - first:
+      213: -5195994700670006971
+    second: CATARTs_46
+  - first:
+      213: 3944211059202291700
+    second: CATARTs_47
+  - first:
+      213: 6871209504707527559
+    second: CATARTs_48
+  - first:
+      213: -3039454241480395015
+    second: CATARTs_49
+  - first:
+      213: -8203226935115589113
+    second: CATARTs_50
+  - first:
+      213: 8253188840948281091
+    second: CATARTs_51
+  - first:
+      213: 7809444935106295137
+    second: CATARTs_52
+  - first:
+      213: 2337065976400895705
+    second: CATARTs_53
+  - first:
+      213: 9070156615624512823
+    second: CATARTs_54
+  - first:
+      213: -1202493891575154107
+    second: CATARTs_55
+  - first:
+      213: 8404801767071235382
+    second: CATARTs_56
+  - first:
+      213: -2385501791836828669
+    second: CATARTs_57
+  - first:
+      213: -5193087032227413154
+    second: CATARTs_58
+  - first:
+      213: -5937340792765319946
+    second: CATARTs_59
+  - first:
+      213: 290479227724953530
+    second: CATARTs_60
+  - first:
+      213: 5543496636211321190
+    second: CATARTs_61
+  - first:
+      213: 2130043764507802354
+    second: CATARTs_62
+  - first:
+      213: 6237811532618699082
+    second: CATARTs_63
+  - first:
+      213: -5753324838131220332
+    second: CATARTs_64
+  - first:
+      213: 1611403023962156854
+    second: CATARTs_65
+  - first:
+      213: -6410362010255105357
+    second: CATARTs_66
+  - first:
+      213: 6787925557855277802
+    second: CATARTs_67
+  - first:
+      213: -2640258430576668279
+    second: CATARTs_68
+  - first:
+      213: -4652191926457838381
+    second: CATARTs_69
+  - first:
+      213: 1204942433587432247
+    second: CATARTs_70
+  - first:
+      213: 821284132586984911
+    second: CATARTs_71
+  - first:
+      213: -3397469017903836607
+    second: CATARTs_72
+  - first:
+      213: 2912342890953597482
+    second: CATARTs_73
+  - first:
+      213: 5664479122697636749
+    second: CATARTs_74
+  - first:
+      213: 2894520540275566168
+    second: CATARTs_75
+  - first:
+      213: -8865042059844731570
+    second: CATARTs_76
+  - first:
+      213: -6873285309061703587
+    second: CATARTs_77
+  - first:
+      213: 5360324702818584818
+    second: CATARTs_78
+  - first:
+      213: -6860404366519403852
+    second: CATARTs_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Linux64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CATARTs_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 689
+        width: 1954
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45851d7876eef020800000000000000
+      internalID: 2377591058467226955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_1
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 689
+        width: 1954
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e965263356a1991b0800000000000000
+      internalID: -5649455235603474786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_2
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 689
+        width: 1954
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f71882292d4b0620800000000000000
+      internalID: 2741369637253421048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_3
+      rect:
+        serializedVersion: 2
+        x: 6191
+        y: 689
+        width: 1954
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbc0d1787edb0e20800000000000000
+      internalID: 3317990159375453168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_4
+      rect:
+        serializedVersion: 2
+        x: 8239
+        y: 689
+        width: 1954
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8726331fde1b77090800000000000000
+      internalID: -8036759374507318664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_5
+      rect:
+        serializedVersion: 2
+        x: 10287
+        y: 689
+        width: 1954
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232e7c104f46d5f30800000000000000
+      internalID: 4565916596388225586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_6
+      rect:
+        serializedVersion: 2
+        x: 12335
+        y: 689
+        width: 1954
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1259fa2a5e70e33c0800000000000000
+      internalID: -4378053104899222239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_7
+      rect:
+        serializedVersion: 2
+        x: 14383
+        y: 689
+        width: 1954
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d00465bb91c3640800000000000000
+      internalID: 5060948373654211997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_8
+      rect:
+        serializedVersion: 2
+        x: 16431
+        y: 689
+        width: 1954
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c1ab9a86e3a2a40800000000000000
+      internalID: 5344152527073582104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_9
+      rect:
+        serializedVersion: 2
+        x: 18479
+        y: 689
+        width: 1954
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeae061187e6c0790800000000000000
+      internalID: -7562548212295210258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44983c088d85a3080800000000000000
+      internalID: -9206948801309079228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_11
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6fa7aa985b39d50800000000000000
+      internalID: 6742932669979096752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_12
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f141b4ee544a0e900800000000000000
+      internalID: 711749361382134815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_13
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e436fd1387d68f0800000000000000
+      internalID: -545647824245404037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_14
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 259
+        width: 194
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005cb8560988214a0800000000000000
+      internalID: -6624081948148251392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_15
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e05bf92dc5b76790800000000000000
+      internalID: -7536855558603976474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_16
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 259
+        width: 194
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a3ee45b209fd350800000000000000
+      internalID: 6043707740737387150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_17
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20791b056bbfc9a40800000000000000
+      internalID: 5376448815629965058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_18
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029972d30ba17b440800000000000000
+      internalID: 4951455659559721248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_19
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca63096a481fcf3d0800000000000000
+      internalID: -3171394485543225684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_20
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cec118cb7730e10800000000000000
+      internalID: 2162703897571683464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_21
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 259
+        width: 194
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5d23301b1ce36b0800000000000000
+      internalID: -5314597544243571293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_22
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0740883ec6f0f6b0800000000000000
+      internalID: -5264436598824483059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_23
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 259
+        width: 194
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def4031f994275690800000000000000
+      internalID: -7613576401451462675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_24
+      rect:
+        serializedVersion: 2
+        x: 4389
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae2afd6154848a40800000000000000
+      internalID: 5369562141004803759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_25
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd519ac1614bc570800000000000000
+      internalID: 8487949810975989197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_26
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0f37af1159adf30800000000000000
+      internalID: 4601153873761267903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_27
+      rect:
+        serializedVersion: 2
+        x: 5017
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7044766c129722e50800000000000000
+      internalID: 6783117174742926343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_28
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 259
+        width: 194
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2695f11588d6a8180800000000000000
+      internalID: -9112350463786788510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_29
+      rect:
+        serializedVersion: 2
+        x: 5436
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f86bf94780d8e560800000000000000
+      internalID: 7343348471907969271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_30
+      rect:
+        serializedVersion: 2
+        x: 5645
+        y: 259
+        width: 194
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de46d64f51103a5f0800000000000000
+      internalID: -746751919406619411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_31
+      rect:
+        serializedVersion: 2
+        x: 6437
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26caa12ba19394f0800000000000000
+      internalID: -823154142688393686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_32
+      rect:
+        serializedVersion: 2
+        x: 6646
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfed3130f5142d3c0800000000000000
+      internalID: -4336331614875033861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_33
+      rect:
+        serializedVersion: 2
+        x: 6856
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d833ebd2aba2682e0800000000000000
+      internalID: -2123963195138886771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_34
+      rect:
+        serializedVersion: 2
+        x: 7065
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f78ffd1d725eed0800000000000000
+      internalID: -2385456645263556784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_35
+      rect:
+        serializedVersion: 2
+        x: 7274
+        y: 259
+        width: 194
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c4a88fd56055400800000000000000
+      internalID: 312162749843655717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_36
+      rect:
+        serializedVersion: 2
+        x: 7484
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97384893144f78f50800000000000000
+      internalID: 6883739116434129785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_37
+      rect:
+        serializedVersion: 2
+        x: 7693
+        y: 259
+        width: 194
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ffe2410273316d0800000000000000
+      internalID: -3021010314118365314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_38
+      rect:
+        serializedVersion: 2
+        x: 8485
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c282bb3cf5876ea90800000000000000
+      internalID: -7285002994524149716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_39
+      rect:
+        serializedVersion: 2
+        x: 8694
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44ac3e1b8b66d350800000000000000
+      internalID: 6041134195416015950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_40
+      rect:
+        serializedVersion: 2
+        x: 8904
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e2a327b411204a0800000000000000
+      internalID: -6628716685799313787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_41
+      rect:
+        serializedVersion: 2
+        x: 9113
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b58e1faaad3a2e60800000000000000
+      internalID: 7938225096485668275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_42
+      rect:
+        serializedVersion: 2
+        x: 9322
+        y: 259
+        width: 194
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f2aa43327ea5420800000000000000
+      internalID: 2619660271662804857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_43
+      rect:
+        serializedVersion: 2
+        x: 9532
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f569aa6411f3c830800000000000000
+      internalID: 4090377956573668852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_44
+      rect:
+        serializedVersion: 2
+        x: 9741
+        y: 259
+        width: 194
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc83f114119dcd630800000000000000
+      internalID: 3953273241054689484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_45
+      rect:
+        serializedVersion: 2
+        x: 10533
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b2aca653aa32070800000000000000
+      internalID: 8080489302834424701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_46
+      rect:
+        serializedVersion: 2
+        x: 10742
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54980cb695e14e7b0800000000000000
+      internalID: -5195994700670006971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_47
+      rect:
+        serializedVersion: 2
+        x: 10952
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f77bee9f07acb630800000000000000
+      internalID: 3944211059202291700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_48
+      rect:
+        serializedVersion: 2
+        x: 11161
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7834169a3a07b5f50800000000000000
+      internalID: 6871209504707527559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_49
+      rect:
+        serializedVersion: 2
+        x: 11370
+        y: 259
+        width: 194
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6b1899870b1d5d0800000000000000
+      internalID: -3039454241480395015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_50
+      rect:
+        serializedVersion: 2
+        x: 11580
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ad488a098482e80800000000000000
+      internalID: -8203226935115589113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_51
+      rect:
+        serializedVersion: 2
+        x: 11789
+        y: 259
+        width: 194
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fa0f80687398270800000000000000
+      internalID: 8253188840948281091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_52
+      rect:
+        serializedVersion: 2
+        x: 12581
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165fbf1dac8b06c60800000000000000
+      internalID: 7809444935106295137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_53
+      rect:
+        serializedVersion: 2
+        x: 12790
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ded60c8f1dee6020800000000000000
+      internalID: 2337065976400895705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_54
+      rect:
+        serializedVersion: 2
+        x: 13000
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735557bd26bafdd70800000000000000
+      internalID: 9070156615624512823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_55
+      rect:
+        serializedVersion: 2
+        x: 13209
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54af51c3d22ef4fe0800000000000000
+      internalID: -1202493891575154107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_56
+      rect:
+        serializedVersion: 2
+        x: 13418
+        y: 259
+        width: 194
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d3bd53daad3a470800000000000000
+      internalID: 8404801767071235382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_57
+      rect:
+        serializedVersion: 2
+        x: 13628
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c028e52cef4eed0800000000000000
+      internalID: -2385501791836828669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_58
+      rect:
+        serializedVersion: 2
+        x: 13837
+        y: 259
+        width: 194
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53c56cbbd27ee7b0800000000000000
+      internalID: -5193087032227413154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_59
+      rect:
+        serializedVersion: 2
+        x: 14629
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f479c0a1045a9da0800000000000000
+      internalID: -5937340792765319946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_60
+      rect:
+        serializedVersion: 2
+        x: 14838
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7fc2f815df70400800000000000000
+      internalID: 290479227724953530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_61
+      rect:
+        serializedVersion: 2
+        x: 15048
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669d2f6e1d47eec40800000000000000
+      internalID: 5543496636211321190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_62
+      rect:
+        serializedVersion: 2
+        x: 15257
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faf583b48f6f8d10800000000000000
+      internalID: 2130043764507802354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_63
+      rect:
+        serializedVersion: 2
+        x: 15466
+        y: 259
+        width: 194
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4192912a88219650800000000000000
+      internalID: 6237811532618699082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_64
+      rect:
+        serializedVersion: 2
+        x: 15676
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490c1c9ca851820b0800000000000000
+      internalID: -5753324838131220332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_65
+      rect:
+        serializedVersion: 2
+        x: 15885
+        y: 259
+        width: 194
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f2141438adc5610800000000000000
+      internalID: 1611403023962156854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_66
+      rect:
+        serializedVersion: 2
+        x: 16677
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2e51917b1d907a0800000000000000
+      internalID: -6410362010255105357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_67
+      rect:
+        serializedVersion: 2
+        x: 16886
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae252c5b45e833e50800000000000000
+      internalID: 6787925557855277802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_68
+      rect:
+        serializedVersion: 2
+        x: 17096
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9815f3232faeb5bd0800000000000000
+      internalID: -2640258430576668279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_69
+      rect:
+        serializedVersion: 2
+        x: 17305
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d45a8c5718107fb0800000000000000
+      internalID: -4652191926457838381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_70
+      rect:
+        serializedVersion: 2
+        x: 17514
+        y: 259
+        width: 194
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b06c062c0d8b010800000000000000
+      internalID: 1204942433587432247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_71
+      rect:
+        serializedVersion: 2
+        x: 17724
+        y: 259
+        width: 193
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc513863199c56b00800000000000000
+      internalID: 821284132586984911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_72
+      rect:
+        serializedVersion: 2
+        x: 17933
+        y: 259
+        width: 194
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1425274cde3c9d0d0800000000000000
+      internalID: -3397469017903836607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_73
+      rect:
+        serializedVersion: 2
+        x: 18724
+        y: 258
+        width: 194
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a226c67dd68ba6820800000000000000
+      internalID: 2912342890953597482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_74
+      rect:
+        serializedVersion: 2
+        x: 18934
+        y: 258
+        width: 194
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b420a10c54c9e40800000000000000
+      internalID: 5664479122697636749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_75
+      rect:
+        serializedVersion: 2
+        x: 19143
+        y: 258
+        width: 194
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856623678176b2820800000000000000
+      internalID: 2894520540275566168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_76
+      rect:
+        serializedVersion: 2
+        x: 19353
+        y: 258
+        width: 194
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dbe00373b09f480800000000000000
+      internalID: -8865042059844731570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_77
+      rect:
+        serializedVersion: 2
+        x: 19562
+        y: 258
+        width: 194
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5857797d6f2d90a0800000000000000
+      internalID: -6873285309061703587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_78
+      rect:
+        serializedVersion: 2
+        x: 19772
+        y: 258
+        width: 193
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8c040cae2b36a40800000000000000
+      internalID: 5360324702818584818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs_79
+      rect:
+        serializedVersion: 2
+        x: 19981
+        y: 258
+        width: 194
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba721e9392fac0a0800000000000000
+      internalID: -6860404366519403852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

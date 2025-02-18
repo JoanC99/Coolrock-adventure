@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 688bae2c06f8ff143874baa0f8b85ff7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3295117185018462536
+    second: CATARTs lite_0
+  - first:
+      213: 8143484371531026541
+    second: CATARTs lite_1
+  - first:
+      213: 1728934504508986598
+    second: CATARTs lite_2
+  - first:
+      213: 7607911705554435505
+    second: CATARTs lite_3
+  - first:
+      213: 1579889089992973526
+    second: CATARTs lite_4
+  - first:
+      213: -2915996120965679240
+    second: CATARTs lite_5
+  - first:
+      213: -8574696913265134273
+    second: CATARTs lite_6
+  - first:
+      213: -5972536894816093009
+    second: CATARTs lite_7
+  - first:
+      213: -3262661930091275784
+    second: CATARTs lite_8
+  - first:
+      213: -8125085517576585002
+    second: CATARTs lite_9
+  - first:
+      213: 5138328440121607132
+    second: CATARTs lite_10
+  - first:
+      213: -6229107504748891766
+    second: CATARTs lite_11
+  - first:
+      213: -6174622991777586495
+    second: CATARTs lite_12
+  - first:
+      213: 3302248237821455710
+    second: CATARTs lite_13
+  - first:
+      213: -2509715319838721737
+    second: CATARTs lite_14
+  - first:
+      213: 4626231871309622262
+    second: CATARTs lite_15
+  - first:
+      213: -3651836616752543242
+    second: CATARTs lite_16
+  - first:
+      213: -8908522870883756863
+    second: CATARTs lite_17
+  - first:
+      213: -4408192654019006854
+    second: CATARTs lite_18
+  - first:
+      213: -4529636078684461280
+    second: CATARTs lite_19
+  - first:
+      213: -8104558079499291680
+    second: CATARTs lite_20
+  - first:
+      213: 6294510619281140616
+    second: CATARTs lite_21
+  - first:
+      213: 1728026977196628365
+    second: CATARTs lite_22
+  - first:
+      213: -1706823419343423442
+    second: CATARTs lite_23
+  - first:
+      213: -2997388985075703638
+    second: CATARTs lite_24
+  - first:
+      213: -8634992358713389350
+    second: CATARTs lite_25
+  - first:
+      213: -8323207030245854155
+    second: CATARTs lite_26
+  - first:
+      213: 8218220287084093114
+    second: CATARTs lite_27
+  - first:
+      213: 7333103623777948747
+    second: CATARTs lite_28
+  - first:
+      213: 8586037347394631721
+    second: CATARTs lite_29
+  - first:
+      213: -3783185219495678466
+    second: CATARTs lite_30
+  - first:
+      213: -293674688696194448
+    second: CATARTs lite_31
+  - first:
+      213: -5145351333407496275
+    second: CATARTs lite_32
+  - first:
+      213: 6800826616641703273
+    second: CATARTs lite_33
+  - first:
+      213: 374133160100731858
+    second: CATARTs lite_34
+  - first:
+      213: 7742428740809154067
+    second: CATARTs lite_35
+  - first:
+      213: -2362795910105914228
+    second: CATARTs lite_36
+  - first:
+      213: -6435545896475599947
+    second: CATARTs lite_37
+  - first:
+      213: 4803967955515934926
+    second: CATARTs lite_38
+  - first:
+      213: 624435557094946656
+    second: CATARTs lite_39
+  - first:
+      213: 7161237089236239491
+    second: CATARTs lite_40
+  - first:
+      213: -998700101794910600
+    second: CATARTs lite_41
+  - first:
+      213: 4708544439371563580
+    second: CATARTs lite_42
+  - first:
+      213: 593236835046010555
+    second: CATARTs lite_43
+  - first:
+      213: -6502980430285652727
+    second: CATARTs lite_44
+  - first:
+      213: 500801273371811254
+    second: CATARTs lite_45
+  - first:
+      213: -5238992276897320790
+    second: CATARTs lite_46
+  - first:
+      213: -3515549019769024830
+    second: CATARTs lite_47
+  - first:
+      213: 6870147612524637607
+    second: CATARTs lite_48
+  - first:
+      213: -4494503527127963868
+    second: CATARTs lite_49
+  - first:
+      213: 5779797722354989786
+    second: CATARTs lite_50
+  - first:
+      213: 7610543074340614068
+    second: CATARTs lite_51
+  - first:
+      213: -6697004221439212132
+    second: CATARTs lite_52
+  - first:
+      213: -8422099126714708058
+    second: CATARTs lite_53
+  - first:
+      213: -1735223760895843520
+    second: CATARTs lite_54
+  - first:
+      213: 4030756556785132831
+    second: CATARTs lite_55
+  - first:
+      213: -4196060468716707529
+    second: CATARTs lite_56
+  - first:
+      213: -983909225973304278
+    second: CATARTs lite_57
+  - first:
+      213: -3752960886902436719
+    second: CATARTs lite_58
+  - first:
+      213: 8761516697027261251
+    second: CATARTs lite_59
+  - first:
+      213: -6860519504471136162
+    second: CATARTs lite_60
+  - first:
+      213: 4189077856970908024
+    second: CATARTs lite_61
+  - first:
+      213: -6749098983067032348
+    second: CATARTs lite_62
+  - first:
+      213: -4786570254428792183
+    second: CATARTs lite_63
+  - first:
+      213: 1873676157876452605
+    second: CATARTs lite_64
+  - first:
+      213: 8480453453720045426
+    second: CATARTs lite_65
+  - first:
+      213: 6543159078828090393
+    second: CATARTs lite_66
+  - first:
+      213: 2110044945592016811
+    second: CATARTs lite_67
+  - first:
+      213: -6209052954628049531
+    second: CATARTs lite_68
+  - first:
+      213: 469692800226522906
+    second: CATARTs lite_69
+  - first:
+      213: 408730671328883768
+    second: CATARTs lite_70
+  - first:
+      213: 9102819478752542026
+    second: CATARTs lite_71
+  - first:
+      213: -1984410756031646186
+    second: CATARTs lite_72
+  - first:
+      213: -7174069851251560091
+    second: CATARTs lite_73
+  - first:
+      213: -7265024509243640198
+    second: CATARTs lite_74
+  - first:
+      213: 8073912403727533988
+    second: CATARTs lite_75
+  - first:
+      213: 34074023240960974
+    second: CATARTs lite_76
+  - first:
+      213: -7799141485186485452
+    second: CATARTs lite_77
+  - first:
+      213: 2941502005558655751
+    second: CATARTs lite_78
+  - first:
+      213: -583777348295563719
+    second: CATARTs lite_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Linux64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CATARTs lite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043bbca4d256c15449e7f473e6044256
+      internalID: 620956951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs lite_1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7044ce36d45664b987469f3d7dff72
+      internalID: -1641909106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs lite_2
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330383925f6ca2745a16baf1bf0c4216
+      internalID: 1122734888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs lite_3
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b4a08c5419d7046afa99286b00c1f2
+      internalID: 1070084981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs lite_4
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4c6975b027c0d4aa59268f74e5bede
+      internalID: -93134157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs lite_5
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bb86763c7b0a94787b2bfedb2cf172
+      internalID: 1906227115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs lite_6
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634e37a15581fbc4e87c65e316bea5d9
+      internalID: -1569095796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs lite_7
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862d0196365270d4fb7960d43f46cddd
+      internalID: -405012701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs lite_8
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd35016cd562efc4886041e10d16b96d
+      internalID: 1933107809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CATARTs lite_9
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a843931e9d114e8459db82f1be50c66f
+      internalID: -1193506967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f0c95c80970ac3d45ab9cffd2a5075c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CATARTs lite_0: 620956951
+      CATARTs lite_1: -1641909106
+      CATARTs lite_2: 1122734888
+      CATARTs lite_3: 1070084981
+      CATARTs lite_4: -93134157
+      CATARTs lite_5: 1906227115
+      CATARTs lite_6: -1569095796
+      CATARTs lite_7: -405012701
+      CATARTs lite_8: 1933107809
+      CATARTs lite_9: -1193506967
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
