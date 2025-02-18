@@ -461,7 +461,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sapo Run (32x32)_0: 1273319883434534442
+      sapo Run (32x32)_1: 3781860466053127760
+      sapo Run (32x32)_10: 8394140030231167862
+      sapo Run (32x32)_11: 4351231809603171775
+      sapo Run (32x32)_2: 106940588573047150
+      sapo Run (32x32)_3: 3751264668036743511
+      sapo Run (32x32)_4: -8054578458846304051
+      sapo Run (32x32)_5: 5097291928257500847
+      sapo Run (32x32)_6: 3107289817022090162
+      sapo Run (32x32)_7: -350349593306303365
+      sapo Run (32x32)_8: 3683987758336773025
+      sapo Run (32x32)_9: -8280622475652511094
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
