@@ -14,7 +14,7 @@ public class EnemyType1Follower : MonoBehaviour {
     }
 
     void Update() {
-        anim.SetBool("walk", true);
+        //anim.SetBool("walk", true);
         if (Vector2.Distance(waypoints[currentWaypointIndex].transform.position, this.transform.position) < 1f) {
             currentWaypointIndex++;
             transform.localScale = new Vector3(1, 1, 1);

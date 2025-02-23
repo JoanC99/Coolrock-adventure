@@ -64,7 +64,7 @@ public class GameManager : MonoBehaviour {
     }
 
     public void CompleteLevel() {
-        if (SceneManager.GetActiveScene().name == "Level3"){
+        if (SceneManager.GetActiveScene().name == "Level4"){
             isGameCompleted = true;
         } else {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
