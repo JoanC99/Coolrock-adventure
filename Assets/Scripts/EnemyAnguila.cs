@@ -30,7 +30,7 @@ public class EnemyAnguila : MonoBehaviour
 
             // Ajustar la dirección de la Anguila
             Vector3 direction = (waypoints[currentWaypointIndex].transform.position - transform.position).normalized;
-            transform.localScale = new Vector3(direction.y > 0 ? 1 : 1, -1, 1);
+            transform.localScale = new Vector3(1, direction.y > 0 ? 1 : -1, 1);
         }
 
         // Mover la Anguila hacia el waypoint en diagonal (X e Y)

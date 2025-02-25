@@ -5442,7 +5442,7 @@ MonoBehaviour:
       - m_Target: {fileID: 1381522988}
         m_TargetAssemblyTypeName: PlayerManager, Assembly-CSharp
         m_MethodName: Attack
-        m_Mode: 1
+        m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -55896,7 +55896,7 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 2677add072ade55408b4d1f64c47e32c, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
