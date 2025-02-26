@@ -336,7 +336,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TijerasLuzBlue_0: 5757567185490826655
+      TijerasLuzBlue_1: 5616725686149809696
+      TijerasLuzBlue_2: 1016593690099853475
+      TijerasLuzBlue_3: 120845059069367542
+      TijerasLuzBlue_4: -4721733012113752538
+      TijerasLuzBlue_5: 3967727119773408677
+      TijerasLuzBlue_6: 2765410954246662009
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

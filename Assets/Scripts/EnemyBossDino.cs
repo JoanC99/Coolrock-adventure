@@ -50,7 +50,7 @@ public class EnemyBossDino : MonoBehaviour
     }
 
     [System.Obsolete]
-    IEnumerator Shoot() // Cambiado a IEnumerator
+    IEnumerator Shoot()
     {
         yield return new WaitForSeconds(0.2f); // Espera 0.5 segundos
 
@@ -60,10 +60,6 @@ public class EnemyBossDino : MonoBehaviour
         // Aquí puedes agregar lógica para que el proyectil se mueva hacia adelante
         Rigidbody2D rb = projectile.GetComponent<Rigidbody2D>();
         if (rb != null)
-        {
-            // Dispara siempre hacia la derecha
-            Vector2 shootDirection = Vector2.right; // Siempre dispara hacia la derecha
-            rb.velocity = shootDirection * 10f; // Ajusta la velocidad según sea necesario
-        }
+        {}
     }
 }

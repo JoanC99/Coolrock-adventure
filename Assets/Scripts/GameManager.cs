@@ -4,10 +4,10 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour {
-    private GameObject sndManager;
     [SerializeField] private Transform respawn;
     private GameObject player;
-    //LEVEL STATES
+
+    // LEVEL STATES
     public bool isGameOver = false;
     public bool isLevelRestarted = false;
     public bool isLevelCompleted = false;
@@ -16,19 +16,37 @@ public class GameManager : MonoBehaviour {
     public int numVidas = 3;
     public int items = 0;
 
-    void Start()  {
-        //SOUNDMANAGER
-        //InitSoundManager();
+    void Start() {
+        // SOUNDMANAGER
+        InitSoundManager();
         player = GameObject.Find("Player");
+
+        if (player == null) {
+            Debug.LogError("Player not found in the scene!");
+        }
     }
 
     void InitSoundManager() {
-        sndManager = GameObject.FindGameObjectWithTag("SoundManager");
-        sndManager.GetComponent<SoundManager>().SetMusicVolume(PlayerPrefs.GetFloat("musicVolume"));
-        sndManager.GetComponent<SoundManager>().fxVolume = PlayerPrefs.GetFloat("fxVolume");
-        sndManager.GetComponent<SoundManager>().SetEnableMusic(PlayerPrefs.GetInt("music")==1?true:false);
-        sndManager.GetComponent<SoundManager>().isFXEnabled = PlayerPrefs.GetInt("fx")==1?true:false;
-        sndManager.GetComponent<SoundManager>().PlayMusic(0);
+        SoundManager sndManager = SoundManager.Instance; // Acceso al Singleton
+        if (sndManager != null) {
+            float musicVolume = PlayerPrefs.GetFloat("musicVolume", 1.0f); // Valor por defecto
+            float fxVolume = PlayerPrefs.GetFloat("fxVolume", 1.0f); // Valor por defecto
+            bool isMusicEnabled = PlayerPrefs.GetInt("music", 1) == 1; // Valor por defecto
+            bool isFXEnabled = PlayerPrefs.GetInt("fx", 1) == 1; // Valor por defecto
+
+            Debug.Log("Music Volume: " + musicVolume);
+            Debug.Log("FX Volume: " + fxVolume);
+            Debug.Log("Music Enabled: " + isMusicEnabled);
+            Debug.Log("FX Enabled: " + isFXEnabled);
+
+            sndManager.SetMusicVolume(musicVolume);
+            sndManager.SetFXVolume(fxVolume);
+            sndManager.SetEnableMusic(isMusicEnabled);
+            sndManager.SetEnableFX(isFXEnabled);
+            sndManager.PlayMusic(0);
+        } else {
+            Debug.LogError("SoundManager instance not found!");
+        }
     }
 
     void Reset() {
@@ -42,7 +60,7 @@ public class GameManager : MonoBehaviour {
         if (isGameCompleted || isGameOver) {
             GUIStyle myButtonStyle = new GUIStyle(GUI.skin.button);
             myButtonStyle.fontSize = 30;
-            if ( GUI.Button(new Rect(Screen.width/2-Screen.width/8, Screen.height/2-Screen.height/8, Screen.width/4, Screen.height/4), isGameCompleted?"CONGRATULATIONS!!":"GAMEOVER!!", myButtonStyle)) {
+            if (GUI.Button(new Rect(Screen.width / 2 - Screen.width / 8, Screen.height / 2 - Screen.height / 8, Screen.width / 4, Screen.height / 4), isGameCompleted ? "CONGRATULATIONS!!" : "GAMEOVER!!", myButtonStyle)) {
                 Reset();
                 SceneManager.LoadScene(1);
             }
@@ -51,24 +69,29 @@ public class GameManager : MonoBehaviour {
 
     public void GameOver() {
         isGameOver = true;
-        //GameObject.FindGameObjectWithTag("Player").GetComponent<Rigidbody>().constraints = RigidbodyConstraints.None;
+        Debug.Log("Game Over!");
+        // Puedes descomentar la línea siguiente si deseas liberar restricciones del jugador
+        // GameObject.FindGameObjectWithTag("Player").GetComponent<Rigidbody>().constraints = RigidbodyConstraints.None;
         SceneManager.LoadScene(1);
     }
 
     public void RestartLevel() {
-
-        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        Debug.Log("Restart");
-        player.transform.position = respawn.position;
-        player.GetComponent<PlayerManager>().InitPlayer();
+        Debug.Log("Restarting Level");
+        if (player != null) {
+            player.transform.position = respawn.position;
+            player.GetComponent<PlayerManager>().InitPlayer();
+        } else {
+            Debug.LogError("Player not found when trying to restart the level!");
+        }
     }
 
     public void CompleteLevel() {
-        if (SceneManager.GetActiveScene().name == "Level4"){
+        if (SceneManager.GetActiveScene().name == "Level4") {
             isGameCompleted = true;
+            Debug.Log("Level Completed!");
         } else {
+            Debug.Log("Loading next level...");
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
 }
-

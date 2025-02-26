@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: -4739058712477226078}
   m_Layer: 0
   m_Name: Fireball
-  m_TagString: Trap
+  m_TagString: Death
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -175,7 +175,7 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 1.2850195
+  m_Radius: 1.0138226
 --- !u!114 &-4739058712477226078
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -20,15 +20,12 @@ public class ProjectileManagerFireball : MonoBehaviour
 
         dirX = GameObject.Find("Player").GetComponent<PlayerManager>().facingDirection;
 
-       if (dirX == -1){
-            Vector3 currentScale = transform.localScale;
-            currentScale.x = -currentScale.x;
-            transform.localScale = currentScale;
-        }
-
         // Set the initial velocity
-        rb.linearVelocity = dirX * transform.right * speed; // Use 'right' for 2D movement
-
+        rb.linearVelocity = dirX * transform.right * speed;
+        if (rb.linearVelocity.x < 0) // Asegúrate de comparar la componente x de la velocidad
+        {
+            rb.linearVelocity *= -1; // Multiplica la velocidad por -1 para invertirla
+        }
         // Destroy the projectile after 'lifetime' seconds
         Destroy(gameObject, lifetime);
     }

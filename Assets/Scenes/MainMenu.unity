@@ -2098,7 +2098,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49a3ab1ce096ea94583c1fb01706f427, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  respawn: {fileID: 0}
+  respawn: {fileID: 17281692719211771, guid: c3a96e81618665c4bb7c811ac3bdac1a, type: 3}
   isGameOver: 0
   isLevelRestarted: 0
   isLevelCompleted: 0
@@ -2348,17 +2348,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isFXEnabled: 1
   isMusicEnabled: 1
-  musicVolume: 0
-  fxVolume: 0
+  musicVolume: 1
+  fxVolume: 1
   EffectsSource: {fileID: 200564883}
   MusicSource: {fileID: 1432372596}
-  menuMusic: {fileID: 8300000, guid: ee6ec3128b4213c429b81a3da82f43c3, type: 3}
+  menuMusic: {fileID: 8300000, guid: e767dfd233629d3479c94771e0e79d0b, type: 3}
   gameMusic: {fileID: 8300000, guid: 53945616c55e6bd4cb88b05181b4c8af, type: 3}
   jumpFX: {fileID: 8300000, guid: c5ba5a655c926c145be8f91ccba7e4af, type: 3}
   collectedFX: {fileID: 8300000, guid: 5206eee423b7d084388a41f55e4a04a4, type: 3}
   finishedFX: {fileID: 8300000, guid: 5cdd3893bdcf2f840b2d7a63b4ee99d1, type: 3}
   deadFX: {fileID: 8300000, guid: d85eb99c5f67f6142a677ac013a35570, type: 3}
-  game: {fileID: 1743165092}
 --- !u!1 &1880814304
 GameObject:
   m_ObjectHideFlags: 0

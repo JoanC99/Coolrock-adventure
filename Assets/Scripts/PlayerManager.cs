@@ -53,6 +53,8 @@ public class PlayerManager : MonoBehaviour
         isPlayerReady = isDead = false;
         rb.bodyType = RigidbodyType2D.Dynamic;
         isPlayerReady = true;
+        facingDirection = 1;
+        dirX = 0;
     }
 
     void Update()
@@ -204,6 +206,8 @@ public class PlayerManager : MonoBehaviour
     void KillPlayer()
     {
         Debug.Log("kill player");
+        dirX = 0;
+        facingDirection = 1;
         isDead = true;
         isPlayerReady = false;
         gameManager.numVidas -= 1;
@@ -231,6 +235,8 @@ public class PlayerManager : MonoBehaviour
 
     void RestartLevel()
     {
+        dirX = 0;
+        facingDirection = 1;
         gameManager.GetComponent<GameManager>().RestartLevel();
     }
 
