@@ -19,11 +19,8 @@ public class GameManager : MonoBehaviour {
     void Start() {
         // SOUNDMANAGER
         InitSoundManager();
-        player = GameObject.Find("Player");
-
-        if (player == null) {
-            Debug.LogError("Player not found in the scene!");
-        }
+        
+        
     }
 
     void InitSoundManager() {
@@ -43,7 +40,25 @@ public class GameManager : MonoBehaviour {
             sndManager.SetFXVolume(fxVolume);
             sndManager.SetEnableMusic(isMusicEnabled);
             sndManager.SetEnableFX(isFXEnabled);
-            sndManager.PlayMusic(0);
+            if (SceneManager.GetActiveScene().name == "Level1")
+            {
+                sndManager.PlayMusic(1);
+            }
+            else if (SceneManager.GetActiveScene().name == "Level2")
+            {
+                sndManager.PlayMusic(2);
+            }
+            else if (SceneManager.GetActiveScene().name == "Level3")
+            {
+                sndManager.PlayMusic(3);
+            }
+            else if (SceneManager.GetActiveScene().name == "Level4")
+            {
+                sndManager.PlayMusic(4);
+            }
+
+
+
         } else {
             Debug.LogError("SoundManager instance not found!");
         }
@@ -77,6 +92,7 @@ public class GameManager : MonoBehaviour {
 
     public void RestartLevel() {
         Debug.Log("Restarting Level");
+        player = GameObject.Find("Player");
         if (player != null) {
             player.transform.position = respawn.position;
             player.GetComponent<PlayerManager>().InitPlayer();
@@ -88,7 +104,8 @@ public class GameManager : MonoBehaviour {
     public void CompleteLevel() {
         if (SceneManager.GetActiveScene().name == "Level4") {
             isGameCompleted = true;
-            Debug.Log("Level Completed!");
+            Debug.Log("Game Completed!");
+            SceneManager.LoadScene(1);
         } else {
             Debug.Log("Loading next level...");
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);

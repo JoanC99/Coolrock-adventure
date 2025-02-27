@@ -13,11 +13,15 @@ public class SoundManager : MonoBehaviour
     public AudioSource MusicSource;
 
     public AudioClip menuMusic;
-    public AudioClip gameMusic;
+    public AudioClip gameMusicLevel1;
+    public AudioClip gameMusicLevel2;
+    public AudioClip gameMusicLevel3;
+    public AudioClip gameMusicLevel4;
     public AudioClip jumpFX;
     public AudioClip collectedFX;
     public AudioClip finishedFX;
     public AudioClip deadFX;
+    public AudioClip clickFX;
 
     public static SoundManager Instance = null;
 
@@ -40,6 +44,7 @@ public class SoundManager : MonoBehaviour
         // Establecer volúmenes iniciales
         SetMusicVolume(musicVolume);
         SetFXVolume(fxVolume);
+        PlayMusic(menuMusic);
     }
 
     // Play a single clip through the sound effects source.
@@ -84,6 +89,9 @@ public class SoundManager : MonoBehaviour
                 case 3:
                     EffectsSource.clip = deadFX;
                     break;
+                case 4:
+                    EffectsSource.clip = clickFX;
+                    break;
             }
             EffectsSource.Play();
         }
@@ -101,7 +109,16 @@ public class SoundManager : MonoBehaviour
                     MusicSource.clip = menuMusic;
                     break;
                 case 1:
-                    MusicSource.clip = gameMusic;
+                    MusicSource.clip = gameMusicLevel1;
+                    break;
+                case 2:
+                    MusicSource.clip = gameMusicLevel2;
+                    break;
+                case 3:
+                    MusicSource.clip = gameMusicLevel3;
+                    break;
+                case 4:
+                    MusicSource.clip = gameMusicLevel4;
                     break;
             }
             MusicSource.Play();
