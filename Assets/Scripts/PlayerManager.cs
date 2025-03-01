@@ -139,7 +139,6 @@ public class PlayerManager : MonoBehaviour
         {
             if (gameManager.items > 0)
             {
-                Debug.Log("ATTACK2");
                 anim.SetTrigger("Attack");
                 Shoot();
                 gameManager.items--;
@@ -147,6 +146,19 @@ public class PlayerManager : MonoBehaviour
             }
         }
     }
+
+    public void AttackTactil()
+    {
+        Debug.Log("ATTACK");
+        if (gameManager.items > 0)
+        {
+            anim.SetTrigger("Attack");
+            Shoot();
+            gameManager.items--;
+            hudManager.UpdateItems();
+        }
+    }
+
 
     private void Shoot()
     {

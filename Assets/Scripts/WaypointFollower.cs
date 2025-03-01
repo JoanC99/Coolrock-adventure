@@ -10,7 +10,7 @@ public class WaypointFollower : MonoBehaviour
 
     void Update()
     {
-        if (Vector2.Distance(waypoints[currentWaypointIndex].transform.position, transform.position) < .1f) 
+        if (Vector2.Distance(waypoints[currentWaypointIndex].transform.position, transform.position) < .1f)
         {
             currentWaypointIndex++;
             if (currentWaypointIndex >= waypoints.Length)
@@ -18,33 +18,41 @@ public class WaypointFollower : MonoBehaviour
                 currentWaypointIndex = 0;
             }
 
-        } 
+        }
         transform.position = Vector2.MoveTowards(transform.position, waypoints[currentWaypointIndex].transform.position, Time.deltaTime * speed);
     }
 
     void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.gameObject.CompareTag("Player")) 
+        if (col.gameObject.CompareTag("Player"))
         {
-            col.gameObject.transform.SetParent(transform);
+            StartCoroutine(SetParentWithDelay(col.transform, transform));
         }
     }
 
     void OnTriggerExit2D(Collider2D col)
     {
-        if (col.gameObject.CompareTag("Player")) 
+        if (col.gameObject.CompareTag("Player"))
         {
-            col.gameObject.transform.SetParent(null);
+            StartCoroutine(SetParentWithDelay(col.transform, null));
         }
     }
 
-    void OnCollisionEnter2D(Collision2D col) 
+    private IEnumerator SetParentWithDelay(Transform child, Transform parent)
     {
-    
+        yield return new WaitForEndOfFrame();
+        child.SetParent(parent);
+    }
+
+    void OnCollisionEnter2D(Collision2D col)
+    {
+
     }
 
     void OnCollisionExit2D(Collision2D col)
     {
-        
+
     }
 }
+
+

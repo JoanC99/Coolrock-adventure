@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class LoadScene : MonoBehaviour {
+public class LoadScene : MonoBehaviour
+{
     private SoundManager soundManager;
-    public void loadScene(int i) {
+    public void loadScene(int i)
+    {
         soundManager = GameObject.Find("SoundManager").GetComponent<SoundManager>();
         soundManager.PlayFX(4);
         SceneManager.LoadScene(i);

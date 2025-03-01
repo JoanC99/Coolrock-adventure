@@ -12,7 +12,7 @@ public class ItemCollector : MonoBehaviour
     void Start() {
         gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
         hudManager = GameObject.Find("HUDManager").GetComponent<HUDManager>();
-        //sndManager = GameObject.FindGameObjectWithTag("SoundManager");
+        sndManager = GameObject.FindGameObjectWithTag("SoundManager");
     }
 
     private void OnTriggerEnter2D(Collider2D col) 
@@ -22,7 +22,7 @@ public class ItemCollector : MonoBehaviour
             gameManager.items++;
             hudManager.UpdateItems();
             col.gameObject.GetComponent<Animator>().SetTrigger("collected");
-            //sndManager.GetComponent<SoundManager>().PlayFX(1);
+            sndManager.GetComponent<SoundManager>().PlayFX(1);
             Destroy(col.gameObject);
         }
     }

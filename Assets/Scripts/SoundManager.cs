@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -27,7 +27,7 @@ public class SoundManager : MonoBehaviour
 
     void Awake()
     {
-        // Implementar el patrón Singleton
+        // Implementar el patron Singleton
         if (Instance == null)
         {
             Instance = this;
@@ -41,9 +41,9 @@ public class SoundManager : MonoBehaviour
 
     void Start()
     {
-        // Establecer volúmenes iniciales
-        SetMusicVolume(musicVolume);
-        SetFXVolume(fxVolume);
+        // Establecer volumenes iniciales
+        SetMusicVolume(PlayerPrefs.GetFloat("musicVolume", musicVolume));
+        SetFXVolume(PlayerPrefs.GetFloat("fxVolume", fxVolume));
         PlayMusic(menuMusic);
     }
 
@@ -62,7 +62,7 @@ public class SoundManager : MonoBehaviour
     {
         if (isMusicEnabled)
         {
-            MusicSource.enabled = true;
+            MusicSource.Stop(); // Asegurarse de detener cualquier mÃºsica que estÃ© sonando
             MusicSource.loop = true;
             MusicSource.clip = clip;
             MusicSource.Play();
@@ -134,12 +134,14 @@ public class SoundManager : MonoBehaviour
     {
         musicVolume = f;
         MusicSource.volume = f;
+        PlayerPrefs.SetFloat("musicVolume", f);
     }
 
     public void SetFXVolume(float f)
     {
         fxVolume = f;
         EffectsSource.volume = f;
+        PlayerPrefs.SetFloat("fxVolume", f);
     }
 
     public void SetEnableFX(bool b)
@@ -157,7 +159,7 @@ public class SoundManager : MonoBehaviour
         }
         else
         {
-            // Reproduce la música del menú por defecto al habilitar la música
+            // Reproduce la mï¿½sica del menï¿½ por defecto al habilitar la mï¿½sica
             PlayMusic(0);
         }
     }

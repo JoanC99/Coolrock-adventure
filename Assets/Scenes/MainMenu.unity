@@ -2583,8 +2583,8 @@ MonoBehaviour:
   gameMusicLevel2: {fileID: 8300000, guid: ff80961ddfc61574cb747a20f955147c, type: 3}
   gameMusicLevel3: {fileID: 8300000, guid: ba474e8c47f09a9419ef58ef67795468, type: 3}
   gameMusicLevel4: {fileID: 8300000, guid: e2455e21be92c4e4f97671058b004d65, type: 3}
-  jumpFX: {fileID: 8300000, guid: c5ba5a655c926c145be8f91ccba7e4af, type: 3}
-  collectedFX: {fileID: 8300000, guid: 5206eee423b7d084388a41f55e4a04a4, type: 3}
+  jumpFX: {fileID: 0}
+  collectedFX: {fileID: 8300000, guid: a92aa82198246c84888fc096e06dcff2, type: 3}
   finishedFX: {fileID: 8300000, guid: 5cdd3893bdcf2f840b2d7a63b4ee99d1, type: 3}
   deadFX: {fileID: 8300000, guid: d85eb99c5f67f6142a677ac013a35570, type: 3}
   clickFX: {fileID: 8300000, guid: b731d9fe6426d71438bd8e8068c9c744, type: 3}
