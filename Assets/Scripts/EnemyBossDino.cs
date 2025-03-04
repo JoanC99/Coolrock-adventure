@@ -11,7 +11,9 @@ public class EnemyBossDino : MonoBehaviour
     public float speed = 1f;
 
     [SerializeField] private GameObject projectilePrefab; // Prefab del proyectil
-    [SerializeField] private Transform firePoint; // Punto desde donde se dispara el proyectil
+    [SerializeField] private Transform firePoint1; // Punto desde donde se dispara el proyectil
+    [SerializeField] private Transform firePoint2; // Punto desde donde se dispara el proyectil
+    [SerializeField] private Transform firePoint3; // Punto desde donde se dispara el proyectil
     private float attackCooldown = 5f; // Tiempo entre ataques
     private float nextAttackTime = 0f; // Tiempo para el siguiente ataque
 
@@ -55,11 +57,21 @@ public class EnemyBossDino : MonoBehaviour
         yield return new WaitForSeconds(0.2f); // Espera 0.5 segundos
 
         // Instancia el proyectil en la posición del firePoint
-        GameObject projectile = Instantiate(projectilePrefab, firePoint.position, firePoint.rotation);
+        GameObject projectile = Instantiate(projectilePrefab, firePoint1.position, firePoint1.rotation);
+        GameObject projectile2 = Instantiate(projectilePrefab, firePoint2.position, firePoint2.rotation);
+        GameObject projectile3 = Instantiate(projectilePrefab, firePoint3.position, firePoint3.rotation);
+
 
         // Aquí puedes agregar lógica para que el proyectil se mueva hacia adelante
         Rigidbody2D rb = projectile.GetComponent<Rigidbody2D>();
+        Rigidbody2D rb2 = projectile2.GetComponent<Rigidbody2D>();
+        Rigidbody2D rb3 = projectile3.GetComponent<Rigidbody2D>();
+
         if (rb != null)
-        {}
+            { }
+        if (rb2 != null)
+            { }
+        if (rb3 != null)
+            { }
     }
 }
